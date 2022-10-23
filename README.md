@@ -1,6 +1,11 @@
 
 ## CATATAN
 Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Script+ini+untuk+semua+orang,;bukan+untuk+Dijual.; Jika+dijual+Burut+Koncol+mu+kak !
+;" />
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <img src="https://telegra.ph/file/ddec05f380bd91bf10cfc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
