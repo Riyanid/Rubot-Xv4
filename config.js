@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/yannstory_' // ig
-global.sgh = 'https://github.com/riyanid/' // github
+global.sig = 'https://instagram.com/_ctzhid' // ig
+global.sgh = 'https://github.com/WH-MODS-BOT/' // github
 global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '081511879987' //dana
-global.povo = '081511879987' //ovo
+global.pdana = '08XXXXXXXXXX' //dana
+global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '085711459232' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/RyanID'
+global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281511879987'
-global.nomorown = '6285711450232'
-global.namebot = 'Rubot-X MD'
-global.nameown = '༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐'
+global.nomorbot = '62XXXXXXXXXXX'
+global.nomorown = '62XXXXXXXXXXX'
+global.namebot = 'WH-MODS-BOT-V1'
+global.nameown = 'WH MODS DEV'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285711450232', '༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐', true],
+  ['62XXXXXXXXXXX', 'WH MODS DEV', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -139,13 +139,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 '༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐'
-global.wm3 = '⫹⫺ ༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐ '
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ ༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐`
+global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 |2!¥απαDΔ  あ」'
+global.author = '                「 WH-MODS-BOT-V1  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -154,11 +154,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ddec05f380bd91bf10cfc.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/ddec05f380bd91bf10cfc.jpg'
+global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/ddec05f380bd91bf10cfc.jpg']
-global.fla = 'https://telegra.ph/file/ddec05f380bd91bf10cfc.jpg'
+global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
+global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
