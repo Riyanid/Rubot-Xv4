@@ -138,7 +138,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐ 」' //Main Watermark
+global.wm = '         「 ༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐ 」' //Main Watermark
 global.wm2 = '༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐'
 global.wm3 = '⫹⫺ |2!¥απαDΔ࿐ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
